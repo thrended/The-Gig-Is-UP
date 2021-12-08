@@ -1,0 +1,23 @@
+.event {
+    width: 100%;
+    margin-top: 65px;
+    margin-left: 15px;
+}
+
+.event-title {
+    color:blue;
+	font-size: 50px;
+}
+
+.description, .address {
+	font-size: 30px;
+}
+
+.address {
+    color: green;
+}
+
+.type {
+    color:black;
+    font-size: 30px;
+}

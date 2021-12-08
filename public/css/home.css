@@ -1,0 +1,21 @@
+.event {
+	border: 1px solid;
+    width: 300px;
+    min-height: 260px;
+    margin-top: 15px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.event-title {
+	font-size: 40px;
+}
+
+.event-thumb {
+	width: 100%;
+    max-height: 100px;
+}
+
+.description {
+	font-size: 20px;
+}
