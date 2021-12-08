@@ -1,6 +1,6 @@
 # The-Gig-Is-Up
 
-# This website simulates an online music ticket vendor.
+This website simulates an online music ticket vendor.
 
 Currently the site only runs on localhost using XAMPP
 
