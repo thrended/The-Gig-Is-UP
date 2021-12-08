@@ -4,4 +4,4 @@
 
 Currently the site only runs on localhost using XAMPP
 
-# Credits to Jake Altshuler for supplying the base files
+Credits to Jake Altshuler for supplying the base files
